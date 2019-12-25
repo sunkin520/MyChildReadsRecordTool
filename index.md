@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My Child Reads Record Tool 
 
-You can use the [editor on GitHub](https://github.com/sunkin520/MyChildReadsRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a tool to record parent-child interaction reading. When you come home from work or go to bed every day, accompany your child to read together, tell your child fairy tales, explain to your child the meaning of characters in the book, make your child like reading and develop a good habit of reading.
+You can also keep track of how much your child likes different types of books each time they read, where and when they read together, so you can better understand their reading preferences and let them grow up healthily with you
 
-### Markdown
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will answer them for you in the first time.
 
-```markdown
-Syntax highlighted code block
+### Address: sun778297ma@163.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunkin520/MyChildReadsRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
